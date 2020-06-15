@@ -3,6 +3,18 @@
 
 ## How to run
 
+- Clone the repository
+
+```
+git clone https://github.com/rop-la/modulus-oracle.git
+```
+
+- Change the directory
+
+```
+cd modulus-oracle
+```
+
 - Generate a private key with `openssl`
 
 ```
