@@ -27,7 +27,7 @@ openssl genrsa -out priv.key 512
 virtualenv -p python3 venv
 ```
 
-- Activate de virtual environment
+- Activate the virtual environment
 
 ```
 source venv/bin/activate
